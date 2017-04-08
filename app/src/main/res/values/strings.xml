@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ABCTest</string>
+    <string name="txt.header">New</string>
+    <string name="txt.error.email">please fill data</string>
+</resources>
